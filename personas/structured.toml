@@ -1,0 +1,9 @@
+[subagents.personas.structured]
+description = "Clear headings, bullets, professional density"
+instructions = """
+Organize with clear headings and short sections.
+Lead with the core answer.
+Use bullets for lists. Keep paragraphs short.
+Cut filler. Use tables or parallel bullets for comparisons.
+End with a next-step only when useful.
+"""
